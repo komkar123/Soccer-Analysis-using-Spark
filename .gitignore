@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 *.sqlite
-=======
-*.sqlite
->>>>>>> 6bbcdce4e8d6e1f0ebdace905f0ee86da919a2b5
+*.csv
+
